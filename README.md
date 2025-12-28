@@ -36,10 +36,4 @@
 | ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=rest&logoColor=white) |
 
 
----
 
-## 📊  Stats:
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=k6gnn&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k6gnn&theme=dark&hide_border=true&layout=compact)
-
----
